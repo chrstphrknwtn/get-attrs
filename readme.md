@@ -34,7 +34,7 @@ makes this:
   viewBox: "0 0 256 312",
   id: "myId",
   data-float: 1.234,
-  onload: "startAnimation("fast")",
+  onload: "startAnimation('fast')",
   unquoted: "d/\nger!"
 }
 ````
